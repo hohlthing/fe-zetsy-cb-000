@@ -59,16 +59,11 @@ header {
 }
 
 #press {
-	margin-bottom: 20px;
+	margin: 0px 0px 20px 0px;
 }
 
 #press img {
 	border: 5px #ccc solid;
-	padding: 1px;
-}
-
-#press img:hover {
-	border: 5px rgb(111,127,122) solid;
 }
 
 footer {
