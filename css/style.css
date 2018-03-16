@@ -27,7 +27,10 @@ h1 {
 	padding-bottom: 5px;
 	margin-bottom: 5px;
 	font-size: 5em;
-	border-bottom: 1px solid #ccc;
+  font-weight: normal;
+	border-bottom: 1px;
+  border-color: #ccc;
+  border-style: solid
 }
 
 h2 {
