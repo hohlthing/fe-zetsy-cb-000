@@ -27,7 +27,6 @@ h1 {
 	padding-bottom: 5px;
 	margin-bottom: 5px;
 	font-size: 5em;
-	font-weight: normal;
 	font-family: 'Baskerville', serif;
 	border-bottom: 1px solid #ccc;
 }
@@ -40,7 +39,7 @@ h2 {
 p  {
 	color: #555;
 	font-size: 1em;
-	margin: 0 0 20px 0;
+	margin: 0 0 20px;
 }
 
 .copyright {
@@ -55,15 +54,19 @@ header {
 }
 
 #image img {
-	border: 5px rgb(152,173,166) solid;
+	border: 5px;
+  border-color: rgb(152,173,166);
+  border-style: solid;
 }
 
 #press {
-	margin-bottom: 20px;
+  margin: 0 0 20px;
 }
 
 #press img {
-	border: 5px #ccc solid;
+	border: 5px;
+  border-color: #ccc;
+  border-style: solid;
 }
 
 footer {
