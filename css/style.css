@@ -28,9 +28,7 @@ h1 {
 	margin-bottom: 5px;
 	font-size: 5em;
   font-weight: normal;
-	border: 0 0 1px 0;
-  border-color: #ccc;
-  border-style: solid
+	border-bottom: 1px #ccc solid;
 }
 
 h2 {
